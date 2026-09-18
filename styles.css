@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-p:nth-child(even){
+.para{
 	color:#00f;
 	background-color:#eee;
 font-family:Arial;
